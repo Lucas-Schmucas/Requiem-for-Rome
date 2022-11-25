@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T22:07:29.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Ty2XQv8ectcR5sRkYjlz" type="github"><diagram id="wwLSh_4o7lDqdAS8Pc1V">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T22:47:26.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="CFa2s-Sjnu63GFL7G7Di" type="github">
+  <diagram id="iX7G-8eh7uQRBPaWPTeV" name="Seite-1">
+    <mxGraphModel dx="2723" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rjn1-qPU7f3llxWcclcF-5" value="Nicht-Vampire im Kollegium einbringen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-6" value="Kult des Dionysos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="840" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-7" value="Bibliothek füllen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-8" value="Rache an den Brandstiftern der Bibliothek" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-9" value="Minervaschrein wieder weihen lassen&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="665" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-10" value="Universität gründen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-11" value="Mit den Pikten verbünden" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-12" value="Einfluss des Kaisers nutzen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-13" value="Einfluss von Julia Afrikana nutzen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-14" value="Blutmagie ausbauen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-15" value="Eupraxiten in den Kult bringen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-16" value="Julia Alba aus dem Exil holen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-17" value="&lt;ul&gt;&lt;li&gt;Weltgeschehen lenken&lt;/li&gt;&lt;li&gt;Polytheistische Weltreligion&lt;/li&gt;&lt;li&gt;Sicherheit für Rom und die Provinzen&lt;/li&gt;&lt;li&gt;Fortschritt&lt;/li&gt;&lt;li&gt;Wohlstand&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-20" value="Bündnisse schließen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="645" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-21" value="Wissen anhäufen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-23" value="Gouverneur des Kollegiums werden" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-5" target="rjn1-qPU7f3llxWcclcF-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="800" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-16" target="rjn1-qPU7f3llxWcclcF-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-11" target="rjn1-qPU7f3llxWcclcF-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-5" target="rjn1-qPU7f3llxWcclcF-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-20" target="rjn1-qPU7f3llxWcclcF-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rjn1-qPU7f3llxWcclcF-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-8" target="rjn1-qPU7f3llxWcclcF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="531.5999999999999" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-33" value="Christentum auslöschen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="840" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-33" target="rjn1-qPU7f3llxWcclcF-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-13" target="rjn1-qPU7f3llxWcclcF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-12" target="rjn1-qPU7f3llxWcclcF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-37" value="Agentennetzwerk aufbauen" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-37" target="rjn1-qPU7f3llxWcclcF-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-6" target="rjn1-qPU7f3llxWcclcF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-12" target="rjn1-qPU7f3llxWcclcF-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.304;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-6" target="rjn1-qPU7f3llxWcclcF-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-6" target="rjn1-qPU7f3llxWcclcF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-7" target="rjn1-qPU7f3llxWcclcF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-15" target="rjn1-qPU7f3llxWcclcF-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-9" target="rjn1-qPU7f3llxWcclcF-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-14" target="rjn1-qPU7f3llxWcclcF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-48" value="Gargoyle und Homunkuli erforschen" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-14" target="rjn1-qPU7f3llxWcclcF-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rjn1-qPU7f3llxWcclcF-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjn1-qPU7f3llxWcclcF-48" target="rjn1-qPU7f3llxWcclcF-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
